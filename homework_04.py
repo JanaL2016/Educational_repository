@@ -1,0 +1,6 @@
+My_String = input("Введите произвольную строку: \n")
+print(My_String.lower())
+print(My_String.upper())
+print(My_String.translate(" "))
+print(My_String[0])
+print(My_String[-1])
